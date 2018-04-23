@@ -1,7 +1,13 @@
 Saroj Udyama
 #Test2 subjects.txt
+<<<<<<< HEAD
 
 
 
 
 Akna
+=======
+ udara     madumalka
+
+Akna Lakmini
+>>>>>>> 971235c826713aa5f391094406745a5d4a25060b
